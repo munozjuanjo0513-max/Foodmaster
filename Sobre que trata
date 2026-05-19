@@ -40,4 +40,206 @@ Desarrollar una aplicación web interactiva que permita a los usuarios:
 ---
 
 #  Estructura del Proyecto
+HU1 – Registro de Usuarios
+Código
 
+HU1
+
+Rol
+
+Usuario
+
+Historia de Usuario
+
+Como usuario, quiero registrarme en la plataforma para acceder a las funcionalidades de Food Master.
+
+Objetivo
+
+Permitir que los usuarios creen una cuenta para interactuar dentro de la plataforma.
+
+Criterios de Aceptación
+El sistema debe permitir crear una cuenta con:
+Nombre
+Correo electrónico
+Contraseña
+El sistema debe validar datos incorrectos.
+El usuario debe recibir confirmación de registro.
+El usuario debe poder iniciar sesión.
+Prioridad
+
+Alta
+
+Estimación
+
+5 puntos
+
+Dependencias
+
+Base de datos de usuarios.
+
+Responsable
+
+Juan José Muñoz
+
+
+HU2 – Visualización de Eventos Gastronómicos
+Código
+
+HU2
+
+Rol
+
+Usuario
+
+Historia de Usuario
+
+Como usuario, quiero visualizar eventos gastronómicos para descubrir nuevos restaurantes y comidas.
+
+Objetivo
+
+Mostrar información de eventos como Burger Master, Pizza Master y Sushi Master.
+
+Criterios de Aceptación
+El sistema debe mostrar:
+Nombre del evento
+Restaurantes participantes
+Ubicación
+Imágenes
+Debe existir un filtro por categorías.
+La información debe actualizarse constantemente.
+Prioridad
+
+Alta
+
+Estimación
+
+8 puntos
+
+Dependencias
+
+Conexión con base de datos de eventos.
+
+Responsable
+
+Juan Pablo Rueda
+
+
+HU3 – Publicación de Reseñas y Comentarios
+Código
+
+HU3
+
+Rol
+
+Usuario
+
+Historia de Usuario
+
+Como usuario, quiero publicar reseñas y comentarios para compartir mi experiencia gastronómica.
+
+Objetivo
+
+Permitir que los usuarios opinen sobre restaurantes y platos.
+
+Criterios de Aceptación
+El sistema debe permitir:
+Escribir comentarios
+Agregar puntuación de 1 a 5 estrellas
+Publicar fotografías
+Las reseñas deben visualizarse públicamente.
+Debe existir validación de contenido.
+Prioridad
+
+Media
+
+Estimación
+
+5 puntos
+
+Dependencias
+
+Sistema de autenticación de usuarios.
+
+Responsable
+
+Juan José Muñoz
+
+HU4 – Ranking de Restaurantes
+Código
+
+HU4
+
+Rol
+
+Usuario
+
+Historia de Usuario
+
+Como usuario, quiero visualizar los restaurantes mejor calificados para identificar las mejores opciones gastronómicas.
+
+Objetivo
+
+Mostrar rankings actualizados de restaurantes según las calificaciones de los usuarios.
+
+Criterios de Aceptación
+El sistema debe:
+Calcular promedios automáticamente.
+Mostrar rankings en tiempo real.
+Permitir filtros por tipo de comida.
+Los restaurantes deben ordenarse de mayor a menor puntuación.
+Prioridad
+
+Media
+
+Estimación
+
+13 puntos
+
+Dependencias
+
+Sistema de reseñas y calificaciones.
+
+Responsable
+
+Mateo Ceballos
+
+
+
+HU5 – Contador de Tiempo de Espera
+Código
+
+HU5
+
+Rol
+
+Usuario
+
+Historia de Usuario
+
+Como usuario, quiero visualizar el tiempo estimado de espera en las filas para decidir a qué restaurante asistir.
+
+Objetivo
+
+Brindar información en tiempo real sobre las filas de restaurantes participantes.
+
+Criterios de Aceptación
+El sistema debe:
+Mostrar tiempo estimado de espera.
+Permitir actualización colaborativa.
+Mostrar estado de ocupación.
+El contador debe actualizarse en tiempo real.
+Prioridad
+
+Baja
+
+Estimación
+
+8 puntos
+
+Dependencias
+
+Conexión en tiempo real y sistema colaborativo.
+
+Responsable
+
+Simón Rodríguez
