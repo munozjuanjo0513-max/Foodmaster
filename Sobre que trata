@@ -40,8 +40,13 @@ Desarrollar una aplicación web interactiva que permita a los usuarios:
 ---
 
 #  Estructura del Proyecto
+
+----
+
 HU1 – Registro de Usuarios
 Código
+
+-------
 
 HU1
 
@@ -81,6 +86,7 @@ Responsable
 
 Juan José Muñoz
 
+------
 
 HU2 – Visualización de Eventos Gastronómicos
 Código
@@ -123,6 +129,7 @@ Responsable
 
 Juan Pablo Rueda
 
+------
 
 HU3 – Publicación de Reseñas y Comentarios
 Código
@@ -164,6 +171,8 @@ Responsable
 
 Juan José Muñoz
 
+------
+
 HU4 – Ranking de Restaurantes
 Código
 
@@ -203,7 +212,7 @@ Responsable
 
 Mateo Ceballos
 
-
+-------
 
 HU5 – Contador de Tiempo de Espera
 Código
