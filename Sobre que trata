@@ -1,10 +1,10 @@
-# 🍔 Food Master
+#  Food Master
 
 Food Master es una plataforma tipo blog enfocada en eventos gastronómicos como Burger Master, Pizza Master y Sushi Master. La aplicación permite a los usuarios compartir experiencias, publicar reseñas, calificar restaurantes y visualizar tiempos estimados de espera en las filas.
 
 ---
 
-# 📌 Objetivo del Proyecto
+#  Objetivo del Proyecto
 
 Desarrollar una aplicación web interactiva que permita a los usuarios:
 - Consultar eventos gastronómicos.
@@ -16,19 +16,19 @@ Desarrollar una aplicación web interactiva que permita a los usuarios:
 
 ---
 
-# 🚀 Funcionalidades Principales
+#  Funcionalidades Principales
 
-✅ Registro e inicio de sesión de usuarios  
-✅ Visualización de eventos gastronómicos  
-✅ Sistema de reseñas y comentarios  
-✅ Ranking de restaurantes  
-✅ Contador de tiempo de espera  
-✅ Perfil de usuario  
-✅ Mapa de restaurantes participantes  
+ Registro e inicio de sesión de usuarios  
+ Visualización de eventos gastronómicos  
+ Sistema de reseñas y comentarios  
+ Ranking de restaurantes  
+ Contador de tiempo de espera  
+ Perfil de usuario  
+ Mapa de restaurantes participantes  
 
 ---
 
-# 🛠️ Tecnologías Utilizadas
+#  Tecnologías Utilizadas
 
 - HTML5
 - CSS3
@@ -39,14 +39,5 @@ Desarrollar una aplicación web interactiva que permita a los usuarios:
 
 ---
 
-# 📂 Estructura del Proyecto
+#  Estructura del Proyecto
 
-```bash
-Food-Master/
-│
-├── frontend/
-├── backend/
-├── mockups/
-├── documentos/
-├── sprint/
-└── README.md
